@@ -17,7 +17,7 @@ operational level where development decisions actually happen.
 
 - [janusgovernance.org](https://janusgovernance.org) — start here
 - [Architecture](https://janusgovernance.org/docs/architecture/) — design and system model
-- [Foundational Paper](https://janusgovernance.org/paper/janus-foundational-paper-v1.0.pdf) — formal specification
+- [Foundational Paper](https://doi.org/10.5281/zenodo.23460644) — formal specification
 
 ---
 
@@ -50,3 +50,12 @@ Core → Framework → Runtime → Docs
 
 A system is trustworthy when every decision, omission, and human authority event
 is recorded, traceable, and reconstructible — not assumed.
+
+## Governance and Participation
+
+- [Governance](../GOVERNANCE.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Security](../SECURITY.md)
+- [Code of Conduct](../CODE_OF_CONDUCT.md)
+
+Janus uses explicit human authority, traceable changes, and evidence proportional to risk.
