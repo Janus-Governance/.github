@@ -17,7 +17,7 @@ operational level where development decisions actually happen.
 
 - [janusgovernance.org](https://janusgovernance.org) — start here
 - [Architecture](https://janusgovernance.org/docs/architecture/) — design and system model
-- [Foundational Paper](https://janusgovernance.org/paper/janus-foundational-paper-v1.0.pdf) — formal specification
+- [Foundational Paper](https://doi.org/10.5281/zenodo.23460644) — formal specification
 
 ---
 
