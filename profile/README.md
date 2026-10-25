@@ -50,3 +50,12 @@ Core → Framework → Runtime → Docs
 
 A system is trustworthy when every decision, omission, and human authority event
 is recorded, traceable, and reconstructible — not assumed.
+
+## Governance and Participation
+
+- [Governance](../GOVERNANCE.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Security](../SECURITY.md)
+- [Code of Conduct](../CODE_OF_CONDUCT.md)
+
+Janus uses explicit human authority, traceable changes, and evidence proportional to risk.
